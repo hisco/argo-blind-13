@@ -1,1 +1,4 @@
 # Helm chart values
+resources:
+  limits:
+    memory: 256Mi
